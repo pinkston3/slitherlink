@@ -89,4 +89,6 @@ Here are the current known issues with the program.
 *   As mentioned above, the solver doesn't take any command-line options, and
     it would be nice to have options like verbose output.
 
+*   A far more interesting question is, how to generate hard slitherlink
+    puzzles?  This is a topic worth exploring in the future!
 
