@@ -39,22 +39,22 @@ libraries installed.  I usually set up a virtual environment to do this.
 
 Here is an example 15x15 puzzle:
 
-        15 15
-         122 32 2    13
-          22  222    3 
-           311  1   122
-         3  31  2   1  
-        202  1 113 2222
-           21 3221 1  3
-        1 2     2 3  2 
-        3   21 2    23 
-          1    213 3  3
-         32    12212  2
-        3  3 122 2 2  3
-         1    22 2   3 
-        3    2 1   2023
-        22 2  32  2    
-        3   21    231 3
+    15 15
+     122 32 2    13
+      22  222    3 
+       311  1   122
+     3  31  2   1  
+    202  1 113 2222
+       21 3221 1  3
+    1 2     2 3  2 
+    3   21 2    23 
+      1    213 3  3
+     32    12212  2
+    3  3 122 2 2  3
+     1    22 2   3 
+    3    2 1   2023
+    22 2  32  2    
+    3   21    231 3
 
 The first line contains the width and height of the puzzle; the remaining
 lines contain the numbers that go into each cell of the puzzle, or a space
